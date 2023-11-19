@@ -1,4 +1,4 @@
-# 3d_pinhole_simulation
+# 3D Matlab Pinhole Simulation
 A MATLAB-based camera simulation tool for computer vision applications. This simulation allows users to model camera parameters, simulate images, and evaluate various computer vision algorithms
 
 
