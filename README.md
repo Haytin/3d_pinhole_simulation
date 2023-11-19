@@ -1,13 +1,13 @@
 # 3d_pinhole_simulation
 A MATLAB-based camera simulation tool for computer vision applications. This simulation allows users to model camera parameters, simulate images, and evaluate various computer vision algorithms
 
-for starting simulation use CamSimulation.m file
+
 
 1. [Introduction](#introduction)
 2. [Files](#files)
 3. [Usage](#usage)
 4. [License](#license)
-5. 
+5. [Usage](#usage)
 # Introduction
 This camera simulation tool is designed for computer vision enthusiasts and researchers to experiment with camera modeling and computer vision algorithms. The simulation covers a range of functionalities, from setting camera intrinsics and extrinsics to simulating images and applying various computer vision techniques.
 
@@ -45,3 +45,6 @@ This camera simulation tool is designed for computer vision enthusiasts and rese
 - show_results.m: MATLAB script for displaying simulation results.
 - show_sensor.m: MATLAB script for visualizing the camera sensor.
 - to_rotation.m: MATLAB script for converting rotation angles.
+
+# Usage
+For starting simulation use CamSimulation.m file.
